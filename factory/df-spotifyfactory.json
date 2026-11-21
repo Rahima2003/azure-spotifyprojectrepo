@@ -1,0 +1,16 @@
+{
+	"name": "df-spotifyfactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "63dfa3fd-bba9-4c43-8300-6b7c7690b412",
+		"tenantId": "05d1131a-81d8-4857-a484-3b38eafcb047"
+	}
+}
